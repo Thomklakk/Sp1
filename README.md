@@ -58,6 +58,8 @@ lastUpdated
 
 
 The client would like the main page layout to look similar to this mock-up, with a table for the Hardware Faults and a table for the Software Faults:
+![image](https://github.com/user-attachments/assets/72d7694a-74cb-4f6a-874c-272823b9aa5b)
+
 
 
 
