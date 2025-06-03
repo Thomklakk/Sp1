@@ -107,6 +107,8 @@ Create a clock() function that shows the current date and time. This should be d
 
 Below is a “mockup” of what the classes should look like:
 
+![image](https://github.com/user-attachments/assets/be9c0160-0241-42e6-ad5a-5076cbcafffe)
+
 
  
 
